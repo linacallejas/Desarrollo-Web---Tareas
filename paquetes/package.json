@@ -1,0 +1,27 @@
+{
+  "name": "lina",
+  "version": "1.0.0",
+  "description": "ejemplo de npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linacallejas/Desarrollo-Web---Tareas.git"
+  },
+  "keywords": [
+    "node",
+    "modulos",
+    "clase"
+  ],
+  "author": "Lina Callejas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linacallejas/Desarrollo-Web---Tareas/issues"
+  },
+  "homepage": "https://github.com/linacallejas/Desarrollo-Web---Tareas#readme",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
+}
